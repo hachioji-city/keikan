@@ -48,7 +48,7 @@ export const OverlayFeatureLayers = ({ featureCollections }: Props) => (
       });
 
       return (
-        <LayersControl.Overlay key={name} name={name}>
+        <LayersControl.Overlay key={name} name={name}checked>
           <GeoJSON
             data={featureCollection}
             pointToLayer={(pointFeature, latlng) => {
