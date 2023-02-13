@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.7eb01031.css",
-    "main.js": "./static/js/main.b4a470ec.js",
-    "static/js/283.b74870ee.chunk.js": "./static/js/283.b74870ee.chunk.js",
+    "main.js": "./static/js/main.c044ebee.js",
+    "static/js/283.3b732bf8.chunk.js": "./static/js/283.3b732bf8.chunk.js",
+    "static/media/八王子市.png": "./static/media/八王子市.b7fbca88a7ea215d1e45.png",
     "index.html": "./index.html",
     "main.7eb01031.css.map": "./static/css/main.7eb01031.css.map",
-    "main.b4a470ec.js.map": "./static/js/main.b4a470ec.js.map"
+    "main.c044ebee.js.map": "./static/js/main.c044ebee.js.map"
   },
   "entrypoints": [
     "static/css/main.7eb01031.css",
-    "static/js/main.b4a470ec.js"
+    "static/js/main.c044ebee.js"
   ]
 }
