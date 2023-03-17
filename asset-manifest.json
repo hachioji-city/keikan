@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.7eb01031.css",
-    "main.js": "./static/js/main.6e5ad6cf.js",
+    "main.js": "./static/js/main.57c534c3.js",
+    "static/js/530.1ab1108f.chunk.js": "./static/js/530.1ab1108f.chunk.js",
     "static/js/283.dea7470a.chunk.js": "./static/js/283.dea7470a.chunk.js",
+    "static/media/ピンの色.png": "./static/media/ピンの色.71d1e52ae5608b27c5dd.png",
     "index.html": "./index.html",
     "main.7eb01031.css.map": "./static/css/main.7eb01031.css.map",
-    "main.6e5ad6cf.js.map": "./static/js/main.6e5ad6cf.js.map"
+    "main.57c534c3.js.map": "./static/js/main.57c534c3.js.map"
   },
   "entrypoints": [
     "static/css/main.7eb01031.css",
-    "static/js/main.6e5ad6cf.js"
+    "static/js/main.57c534c3.js"
   ]
 }
